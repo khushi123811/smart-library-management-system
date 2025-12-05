@@ -2,7 +2,7 @@ import React from "react";
 import { AppBar, Toolbar, Typography } from "@mui/material";
 
 const Navbar = ({ page }) => {
-  const title = "Library Book Management System";
+  const title = "Smart Library Management System";
 
   return (
     <AppBar
