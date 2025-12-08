@@ -86,7 +86,7 @@ function App() {
                 color: "#555",
               }}
             >
-              Welcome to Library Book Management System Dashboard
+              Welcome to Smart Library Management System Dashboard
             </div>
           )}
         </div>
